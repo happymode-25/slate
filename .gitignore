@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Personal ledger store and rendered statements.
+.slate/
+*.jsonl
+*-statement.html
+statement.html
+tmp-*.html
